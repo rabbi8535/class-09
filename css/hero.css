@@ -1,0 +1,13 @@
+.hero{
+    width: 90%;
+    height: 300px;
+    box-sizing: border-box;
+    margin: auto;
+    background-image: url(../images/3.jpg);
+}
+.container{
+    width: 100%;
+    text-align: center;
+    
+    
+}

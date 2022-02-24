@@ -1,0 +1,42 @@
+
+.navbar{
+    width: 90%;
+    margin: auto;
+    
+}
+.menu{
+    width: 100%;
+    display: inline-flex;
+    background-color: aqua;
+}
+
+.logo{
+    width: 10%;
+    display: inline-flex;
+    float: left;
+    margin: auto;
+}
+
+.img img{
+    width: 20px;
+    padding: 5px
+    
+}
+
+.item{
+    width: ;
+
+}
+.item ul{
+    display: inline-flex;
+    
+}
+.item ul li{
+    padding: 10px;
+}
+
+.search{
+    width: 30%;
+    margin: auto;
+    float: right;
+}
